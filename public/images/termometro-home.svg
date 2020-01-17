@@ -1,0 +1,41 @@
+<svg id="termometro-home" xmlns="http://www.w3.org/2000/svg" width="372" height="969" viewBox="0 0 372 969">
+  <path id="Caminho_1" data-name="Caminho 1" d="M189.156,70h0C158.714,70,134,93.518,134,122.487V817.933H244.311V122.487C244.311,93.518,219.6,70,189.156,70Z" transform="translate(-2.058 -6.933)" fill="#66091f"/>
+  <circle id="Elipse_1" data-name="Elipse 1" cx="116" cy="116" r="116" transform="translate(70 667)" fill="#d2153b"/>
+  <g id="Grupo_1" data-name="Grupo 1">
+    <path id="Caminho_2" data-name="Caminho 2" d="M186,70a52.024,52.024,0,0,1,52,52V679.3a116,116,0,1,1-104,0V122a52.024,52.024,0,0,1,52-52m0-30a82.112,82.112,0,0,0-82,82V662.2a147.377,147.377,0,0,0-41.6,43.1A145.963,145.963,0,0,0,289.2,886.2a145.877,145.877,0,0,0,20.4-180.9A147.377,147.377,0,0,0,268,662.2V122a82.112,82.112,0,0,0-82-82Z" fill="#66091f"/>
+  </g>
+  <path id="XMLID_1_" d="M212.8,731.8a34.4,34.4,0,0,0-27.2,13.4A34.235,34.235,0,0,0,124.2,766c0,42.3,61.4,67.9,61.4,67.9S247,808.8,247,766A34.249,34.249,0,0,0,212.8,731.8Z" fill="#fff"/>
+  <path id="Caminho_3" data-name="Caminho 3" d="M186,40a82.112,82.112,0,0,1,82,82V662.2A146.057,146.057,0,0,1,332,783,145.947,145.947,0,0,1,82.8,886.2,145.877,145.877,0,0,1,62.4,705.3,147.377,147.377,0,0,1,104,662.2V122a82.112,82.112,0,0,1,82-82m0-40A122.1,122.1,0,0,0,64,122V642.6A185.986,185.986,0,1,0,317.5,914.5,185.855,185.855,0,0,0,308,642.6V122A122.1,122.1,0,0,0,186,0Z" fill="#fff"/>
+  <g id="Grupo_12" data-name="Grupo 12">
+    <g id="Grupo_2" data-name="Grupo 2">
+      <rect id="Retângulo_1" data-name="Retângulo 1" width="70" height="15" transform="translate(84 622)" fill="#66091f"/>
+    </g>
+    <g id="Grupo_3" data-name="Grupo 3">
+      <rect id="Retângulo_2" data-name="Retângulo 2" width="70" height="15" transform="translate(84 565.7)" fill="#66091f"/>
+    </g>
+    <g id="Grupo_4" data-name="Grupo 4">
+      <rect id="Retângulo_3" data-name="Retângulo 3" width="70" height="15" transform="translate(84 509.3)" fill="#66091f"/>
+    </g>
+    <g id="Grupo_5" data-name="Grupo 5">
+      <rect id="Retângulo_4" data-name="Retângulo 4" width="70" height="15" transform="translate(84 453)" fill="#66091f"/>
+    </g>
+    <g id="Grupo_6" data-name="Grupo 6">
+      <rect id="Retângulo_5" data-name="Retângulo 5" width="70" height="15" transform="translate(84 396.7)" fill="#66091f"/>
+    </g>
+    <g id="Grupo_7" data-name="Grupo 7">
+      <rect id="Retângulo_6" data-name="Retângulo 6" width="70" height="15" transform="translate(84 340.3)" fill="#66091f"/>
+    </g>
+    <g id="Grupo_8" data-name="Grupo 8">
+      <rect id="Retângulo_7" data-name="Retângulo 7" width="70" height="15" transform="translate(84 284)" fill="#66091f"/>
+    </g>
+    <g id="Grupo_9" data-name="Grupo 9">
+      <rect id="Retângulo_8" data-name="Retângulo 8" width="70" height="15" transform="translate(84 227.7)" fill="#66091f"/>
+    </g>
+    <g id="Grupo_10" data-name="Grupo 10">
+      <rect id="Retângulo_9" data-name="Retângulo 9" width="70" height="15" transform="translate(84 171.3)" fill="#66091f"/>
+    </g>
+    <g id="Grupo_11" data-name="Grupo 11">
+      <rect id="Retângulo_10" data-name="Retângulo 10" width="70" height="15" transform="translate(84 115)" fill="#66091f"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg id="sino" xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <path id="Caminho_39" data-name="Caminho 39" d="M60,30A30,30,0,1,1,30,0,30,30,0,0,1,60,30" fill="#ff7463"/>
+  <g id="Grupo_31" data-name="Grupo 31" transform="translate(12.416 8.765)">
+    <g id="Grupo_30" data-name="Grupo 30">
+      <g id="Grupo_29" data-name="Grupo 29">
+        <g id="Grupo_28" data-name="Grupo 28">
+          <path id="Caminho_40" data-name="Caminho 40" d="M7.1,13.3h0a5.617,5.617,0,0,0,5.478,5.478A5.617,5.617,0,0,0,18.056,13.3H7.1Z" transform="translate(5.009 23.691)" fill="#fff"/>
+          <path id="Caminho_41" data-name="Caminho 41" d="M38.537,33.1,33.789,26.35v-8.1c0-5.4-4.383-10.12-9.861-11.132V4.761A2.407,2.407,0,0,0,21.371,2.4a2.407,2.407,0,0,0-2.557,2.361V7.123c-5.478,1.012-9.861,5.735-9.861,11.132v8.1L4.206,32.759c-.365.675-.73,1.687,0,2.361S5.3,36.47,6.4,36.47H36.71A2.286,2.286,0,0,0,38.9,35.12,3.988,3.988,0,0,0,38.537,33.1Z" transform="translate(-3.785 -2.4)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
